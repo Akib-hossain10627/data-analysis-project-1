@@ -18,5 +18,5 @@ Microsoft Excel (Power Query, PivotTables, PivotCharts, Slicers, Named Ranges)
 •	Demand peaks between 8–10 AM; Friday shows strong order volume.
 •	Barista Espresso is the top-grossing product.
 ## Dashboard overview
-([https://github.com/Akib-hossain10627/data-analysis-project-1/commit/b1578f8c3f7d2e8756b4793ee97b36fee2c56fcc](https://github.com/Akib-hossain10627/data-analysis-project-1/blob/main/Coffee%20Shop%20Insights%20Dashboard.png))
+https://github.com/Akib-hossain10627/data-analysis-project-1/blob/main/Coffee%20Shop%20Insights%20Dashboard.png
 
